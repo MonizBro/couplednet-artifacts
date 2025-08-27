@@ -1,0 +1,10 @@
+torch==2.5.1
+torchvision==0.20.1
+torchsummary==1.5.1
+numpy
+pandas==1.5.3
+matplotlib==3.9.2
+tqdm==4.67.1
+Pillow
+psutil
+pynvml
